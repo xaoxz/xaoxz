@@ -4,7 +4,7 @@
 
 <img src="assets/typing.svg" alt="Computer Science student · Software developer" />
 
-<a href="https://github.com/thaxao?tab=repositories"><img src="https://img.shields.io/badge/Projects-thaxao-1a1b27?style=flat-square&logo=github&logoColor=white" alt="Projects" /></a>
+<a href="https://github.com/xaoxz?tab=repositories"><img src="https://img.shields.io/badge/Projects-xaoxz-1a1b27?style=flat-square&logo=github&logoColor=white" alt="Projects" /></a>
 <img src="https://img.shields.io/badge/Main%20language-Zig-F7A41D?style=flat-square&logo=zig&logoColor=white" alt="Main language: Zig" />
 <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="OS: Arch Linux" />
 
@@ -37,8 +37,8 @@
 ### Featured projects
 
 <p align="center">
-  <a href="https://github.com/thaxao/Sunbringer-Astral"><img src="assets/pin-Sunbringer-Astral.svg" alt="Sunbringer-Astral" width="49%" /></a>
-  <a href="https://github.com/thaxao/Sunbringer-Meter"><img src="assets/pin-Sunbringer-Meter.svg" alt="Sunbringer-Meter" width="49%" /></a>
+  <a href="https://github.com/xaoxz/Sunbringer-Astral"><img src="assets/pin-Sunbringer-Astral.svg" alt="Sunbringer-Astral" width="49%" /></a>
+  <a href="https://github.com/xaoxz/Sunbringer-Meter"><img src="assets/pin-Sunbringer-Meter.svg" alt="Sunbringer-Meter" width="49%" /></a>
 </p>
 
 ### GitHub at a glance

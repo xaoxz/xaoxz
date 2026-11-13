@@ -18,7 +18,7 @@ jobs:
           # CARDS_TOKEN (optional, read-only PAT) lets the language card see
           # private repositories; without it that card is left as it is.
           GH_TOKEN: ${{ secrets.CARDS_TOKEN || github.token }}
-        run: bash tools/cards.sh thaxao Sunbringer-Astral Sunbringer-Meter
+        run: bash tools/cards.sh xaoxz Sunbringer-Astral Sunbringer-Meter
       - name: Commit
         run: |
           git diff --quiet -- assets && exit 0

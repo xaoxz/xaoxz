@@ -6,7 +6,7 @@
 #   tools/cards.sh [user] [repo...]
 set -euo pipefail
 
-user="${1:-thaxao}"; shift || true
+user="${1:-xaoxz}"; shift || true
 pins=("$@"); [ ${#pins[@]} -gt 0 ] || pins=(Sunbringer-Astral Sunbringer-Meter)
 out="$(dirname "$0")/../assets"
 mkdir -p "$out"
